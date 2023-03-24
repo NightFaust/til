@@ -20,7 +20,7 @@ There is multiple collections type in csharp :
 Technical Collections like `Dictionary`, `List`, etc. should never be exposed to consumption. They should be used only
 internally for solving a technical problem.
 
-`IList` can be dangerous because it is so abstract thatk it can be used to return many types. So if you don't know the
+`IList` can be dangerous because it is so abstract that it can be used to return many types. So if you don't know the
 implementation (you should not => Liskov Substituion Principle), you may face an exception due to an incompatible type.
 ex : 
 ```csharp
