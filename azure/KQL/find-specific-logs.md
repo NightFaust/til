@@ -10,3 +10,4 @@ StormEvents
 ```
 
 > Note: KQL is case-sensitive for everything
+> Check this article for samples : [article](https://learn.microsoft.com/en-us/azure/data-explorer/kusto/query/samples?pivots=azuredataexplorer)
