@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 13 tils_
+_Total : 14 tils_
 
 ---
 
@@ -39,3 +39,4 @@ _Total : 13 tils_
 - [alter column type](sql/t-sql/alter-column-type.md)
 - [rename column](sql/t-sql/rename-column.md)
 - [join without join](sql/join-without-join.md)
+- [\*.dacpac files](sql/t-sql/dacpac-files.md)
