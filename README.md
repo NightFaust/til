@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 14 tils_
+_Total : 15 tils_
 
 ---
 
@@ -19,6 +19,7 @@ _Total : 14 tils_
 
 ### azure
 - [find specific logs](azure/KQL/find-specific-logs.md)
+- [azure load testing](azure/azure-load-testing.md)
 - [read app settings config](azure/read-app-settings-configurations.md)
 - [copy-a-database](azure/copy-a-database.md)
 
