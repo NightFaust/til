@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 15 tils_
+_Total : 17 tils_
 
 ---
 
@@ -35,9 +35,11 @@ _Total : 15 tils_
 
 ### IDE
 - [Visual Studio: solution crashing because of opened tabs](IDE/visual-studio/solution-crashing-because-opened-tabs.md)
+- [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
 
 ### sql
 - [alter column type](sql/t-sql/alter-column-type.md)
+- [\*.dacpac files](sql/t-sql/dacpac-files.md)
+- [merge operator](sql/t-sql/merge-operator.md)
 - [rename column](sql/t-sql/rename-column.md)
 - [join without join](sql/join-without-join.md)
-- [\*.dacpac files](sql/t-sql/dacpac-files.md)
