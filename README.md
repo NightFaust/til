@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 17 tils_
+_Total : 18 tils_
 
 ---
 
@@ -38,6 +38,7 @@ _Total : 17 tils_
 - [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
 
 ### sql
+- [add month to date](sql/t-sql/add-month-to-date.md)
 - [alter column type](sql/t-sql/alter-column-type.md)
 - [\*.dacpac files](sql/t-sql/dacpac-files.md)
 - [merge operator](sql/t-sql/merge-operator.md)
