@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 18 tils_
+_Total : 19 tils_
 
 ---
 
@@ -15,6 +15,7 @@ _Total : 18 tils_
 * [csharp](#csharp)
 * [git](#git)
 * [IDE](#IDE)
+* [rust](#rust)
 * [sql](#sql)
 
 ### azure
@@ -36,6 +37,9 @@ _Total : 18 tils_
 ### IDE
 - [Visual Studio: solution crashing because of opened tabs](IDE/visual-studio/solution-crashing-because-opened-tabs.md)
 - [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
+
+### rust
+- [tide](rust/libraries/tide.md)
 
 ### sql
 - [add month to date](sql/t-sql/add-month-to-date.md)
