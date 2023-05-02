@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 20 tils_
+_Total : 21 tils_
 
 ---
 
@@ -25,6 +25,7 @@ _Total : 20 tils_
 - [copy-a-database](azure/copy-a-database.md)
 
 ### csharp
+- [add binary string](csharp/add-binary-string.md)
 - [collections](csharp/collections.md)
 - [special formatting files](csharp/special-formatting-files.md)
 - [System.CommandLine](csharp/system-command-line.md)
