@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 19 tils_
+_Total : 20 tils_
 
 ---
 
@@ -47,4 +47,5 @@ _Total : 19 tils_
 - [\*.dacpac files](sql/t-sql/dacpac-files.md)
 - [merge operator](sql/t-sql/merge-operator.md)
 - [rename column](sql/t-sql/rename-column.md)
+- [sql server profiler](sql/t-sql/sql-server-profiler.md)
 - [join without join](sql/join-without-join.md)
