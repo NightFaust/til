@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 21 tils_
+_Total : 22 tils_
 
 ---
 
@@ -31,6 +31,7 @@ _Total : 21 tils_
 - [System.CommandLine](csharp/system-command-line.md)
 
 ### git
+- [chery pick](git/cherry-pick.md)
 - [git add meanings](git/git-add-meanings.md)
 - [rename a branch](git/rename-a-branch.md)
 - [undo pushed commits](git/undo-pushed-commits.md)
