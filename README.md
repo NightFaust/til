@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 22 tils_
+_Total : 23 tils_
 
 ---
 
@@ -38,6 +38,7 @@ _Total : 22 tils_
 
 ### IDE
 - [Visual Studio: solution crashing because of opened tabs](IDE/visual-studio/solution-crashing-because-opened-tabs.md)
+- [Visual Studio: pick specifics exception parameters](IDE/visual-studio/pick-specifics-exception-parameters.md)
 - [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
 
 ### rust
