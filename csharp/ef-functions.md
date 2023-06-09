@@ -1,13 +1,13 @@
 # EF Functions
 
-In Entity Framework in C#, some SQL Functions are not correctly 'converted'.
-For exemple, if you try to do a `Rand()` like SQL, you would type something like this : 
+In the Entity Framework in C#, some SQL functions are not 'converted' correctly.
+For example, if you try to do a `Rand()` like SQL, you would type something like this : 
 
 ```csharp
 entity.Where(e => e.Id == new Random().Next())
 ```
 
-But EF does not convert it correctly in SQL.
+But EF does not convert it correctly to SQL.
 
 ```sql
 select * from entity where Id = <randomly-generated-number>
@@ -16,7 +16,8 @@ select * from entity where Id = <randomly-generated-number>
 ```
 
 To overcome this situation, you can use `EF.Functions` to get translated database functions.
-Some Functions are provider-specific as they're closely tied with particular database functions.
+Some functions are provider-specific because they're closely tied to certain database functions.
 
-One nice thing is that you can also define custom mapping.
-> A user-defined mapping estends the query translation according to the user needs. This functionality is useful when there are user-defined functions in the database, which the user wants to invoke from their LINQ query.
+A nice thing is that you can also define custom mappings.
+> A custom mapping extends the query translation according to the user's needs. This functionality is useful when there are custom functions in the database that
+the user wants to call from their LINQ query.
