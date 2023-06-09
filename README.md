@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 23 tils_
+_Total : 24 tils_
 
 ---
 
@@ -27,6 +27,7 @@ _Total : 23 tils_
 ### csharp
 - [add binary string](csharp/add-binary-string.md)
 - [collections](csharp/collections.md)
+- [EF Functions](csharp/ef-functions.md)
 - [special formatting files](csharp/special-formatting-files.md)
 - [System.CommandLine](csharp/system-command-line.md)
 
