@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 25 tils_
+_Total : 26 tils_
 
 ---
 
@@ -29,6 +29,7 @@ _Total : 25 tils_
 - [collections](csharp/collections.md)
 - [EF Functions](csharp/ef-functions.md)
 - [Log with a scope](csharp/logging-scope.md)
+- [operator overloading](csharp/operator-overload.md)
 - [special formatting files](csharp/special-formatting-files.md)
 - [System.CommandLine](csharp/system-command-line.md)
 
