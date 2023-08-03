@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 27 tils_
+_Total : 28 tils_
 
 ---
 
@@ -52,6 +52,7 @@ _Total : 27 tils_
 - [add month to date](sql/t-sql/add-month-to-date.md)
 - [alter column type](sql/t-sql/alter-column-type.md)
 - [\*.dacpac files](sql/t-sql/dacpac-files.md)
+- [sql server equivalent to nulls first](sql/t-sql/equivalent-to-nulls-first.md)
 - [merge operator](sql/t-sql/merge-operator.md)
 - [rename column](sql/t-sql/rename-column.md)
 - [sql server profiler](sql/t-sql/sql-server-profiler.md)
