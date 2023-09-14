@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 29 tils_
+_Total : 30 tils_
 
 ---
 
@@ -17,6 +17,7 @@ _Total : 29 tils_
 * [IDE](#IDE)
 * [rust](#rust)
 * [sql](#sql)
+* [tools](#tools)
 
 ### azure
 - [find specific logs](azure/KQL/find-specific-logs.md)
@@ -58,3 +59,6 @@ _Total : 29 tils_
 - [rename column](sql/t-sql/rename-column.md)
 - [sql server profiler](sql/t-sql/sql-server-profiler.md)
 - [join without join](sql/join-without-join.md)
+
+### tools
+- [how to paste http request from a browser to postman](tools/postman/how-to-paste-request-from-browser.md)
