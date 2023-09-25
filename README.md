@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 31 tils_
+_Total : 32 tils_
 
 ---
 
