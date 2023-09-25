@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 30 tils_
+_Total : 31 tils_
 
 ---
 
@@ -38,6 +38,7 @@ _Total : 30 tils_
 - [chery pick](git/cherry-pick.md)
 - [git add meanings](git/git-add-meanings.md)
 - [rename a branch](git/rename-a-branch.md)
+- [how to squash commits](git/squashing-commits.md)
 - [undo pushed commits](git/undo-pushed-commits.md)
 
 ### IDE
