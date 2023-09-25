@@ -12,7 +12,7 @@ Text editor will open. Every commit are listed from oldest to newest, top-down. 
 ![editor](./assets/squashing-commits-step-4.png)
 
 
-![modify pick to squash](.assets/test.png)
+![modify pick to squash](./assets/squashing-commits-step-4-1.png)
 
 
 Another editor will open, listing all commits, just comment every one and write a new commit message.
