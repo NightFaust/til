@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 32 tils_
+_Total : 33 tils_
 
 ---
 
@@ -22,8 +22,9 @@ _Total : 32 tils_
 ### azure
 - [find specific logs](azure/KQL/find-specific-logs.md)
 - [azure load testing](azure/azure-load-testing.md)
-- [read app settings config](azure/read-app-settings-configurations.md)
+- [modify webapp runtime stack](azure/modify-webapp-runtime-stack.md)
 - [copy-a-database](azure/copy-a-database.md)
+- [read app settings config](azure/read-app-settings-configurations.md)
 
 ### csharp
 - [add binary string](csharp/add-binary-string.md)
