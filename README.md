@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 33 tils_
+_Total : 34 tils_
 
 ---
 
@@ -39,6 +39,7 @@ _Total : 33 tils_
 ### git
 - [chery pick](git/cherry-pick.md)
 - [git add meanings](git/git-add-meanings.md)
+- [git branching](./git/git-branching.md)
 - [rename a branch](git/rename-a-branch.md)
 - [how to squash commits](git/squashing-commits.md)
 - [undo pushed commits](git/undo-pushed-commits.md)
