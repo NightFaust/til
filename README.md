@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 34 tils_
+_Total : 35 tils_
 
 ---
 
@@ -65,4 +65,5 @@ _Total : 34 tils_
 - [join without join](sql/join-without-join.md)
 
 ### tools
+- [how to generate a .pem file from a .pfx file with OpenSSL](tools/openssl/pfx-to-pem.md)
 - [how to paste http request from a browser to postman](tools/postman/how-to-paste-request-from-browser.md)
