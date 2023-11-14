@@ -46,8 +46,8 @@ _Total : 36 tils_
 
 ### IDE
 - [Visual Studio: solution crashing because of opened tabs](IDE/visual-studio/solution-crashing-because-opened-tabs.md)
-- [Open in new tab instead of new window when debugging](IDE/visual-studio/debug-new-tab.md)
-- [How to encode a file with UTF-8 with BOM with Visual Studio](IDE/visual-studio/encode-with-utf8-with-bom.md)
+- [Visual Studio: Open in new tab instead of new window when debugging](IDE/visual-studio/debug-new-tab.md)
+- [Visual Studio: How to encode a file with UTF-8 with BOM with Visual Studio](IDE/visual-studio/encode-with-utf8-with-bom.md)
 - [Visual Studio: pick specifics exception parameters](IDE/visual-studio/pick-specifics-exception-parameters.md)
 - [Visual Studio: hot reload page for webforms app, asp.net, etc.](IDE/visual-studio/hot-reload-page.md)
 - [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
