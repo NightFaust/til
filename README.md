@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 36 tils_
+_Total : 37 tils_
 
 ---
 
@@ -68,3 +68,6 @@ _Total : 36 tils_
 ### tools
 - [how to generate a .pem file from a .pfx file with OpenSSL](tools/openssl/pfx-to-pem.md)
 - [how to paste http request from a browser to postman](tools/postman/how-to-paste-request-from-browser.md)
+
+### web
+- [Simple CSS](web/css/simple-css.md)
