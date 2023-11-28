@@ -1,6 +1,8 @@
 # How to extract all *.zip on folder in Powershell
 
 Run this powershell script :
+
+```powershell
 # Spécifiez le chemin du dossier contenant les fichiers ZIP
 $sourceFolder = "C:\Users\LaurentSEGUIN\Downloads\aa-fva"
 
@@ -20,7 +22,5 @@ foreach ($zipFile in $zipFiles) {
 }
 
 Write-Host "Extraction terminée."
-
-```powershell
 
 ```
