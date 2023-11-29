@@ -5,7 +5,7 @@
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 38 tils_
+_Total : 39 tils_
 
 ---
 
@@ -72,3 +72,4 @@ _Total : 38 tils_
 
 ### web
 - [Simple CSS](web/css/simple-css.md)
+- [How to get a favicon](web/tips/get-favicon.md)
