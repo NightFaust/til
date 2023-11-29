@@ -21,6 +21,8 @@ foreach ($zipFile in $zipFiles) {
 
 Write-Host "Extraction terminée."
 
+
+> If you are having some errors about UnauthorizedAccess, try to launch Powershell as an admin, or use `Set-ExecutionPolicy Bypass -Scope Process`
 ```powershell
 
 ```
