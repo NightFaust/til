@@ -1,25 +1,28 @@
 # til
+
 > Today I Learned
-> 
+>
 > -- <cite>Inspired by [jbranchaud project](https://github.com/jbranchaud/til)</cite>
 
 Collection of all software engineering things I learned day to day.
 
-_Total : 39 tils_
+_Total : 40 tils_
 
 ---
 
 ### Categories
 
-* [azure](#azure)
-* [csharp](#csharp)
-* [git](#git)
-* [IDE](#IDE)
-* [rust](#rust)
-* [sql](#sql)
-* [tools](#tools)
+- [azure](#azure)
+- [csharp](#csharp)
+- [git](#git)
+- [powershell](#powershell)
+- [IDE](#IDE)
+- [rust](#rust)
+- [sql](#sql)
+- [tools](#tools)
 
 ### azure
+
 - [find specific logs](azure/KQL/find-specific-logs.md)
 - [azure load testing](azure/azure-load-testing.md)
 - [modify webapp runtime stack](azure/modify-webapp-runtime-stack.md)
@@ -27,6 +30,7 @@ _Total : 39 tils_
 - [read app settings config](azure/read-app-settings-configurations.md)
 
 ### csharp
+
 - [add binary string](csharp/add-binary-string.md)
 - [collections](csharp/collections.md)
 - [EF Functions](csharp/ef-functions.md)
@@ -37,6 +41,7 @@ _Total : 39 tils_
 - [System.CommandLine](csharp/system-command-line.md)
 
 ### git
+
 - [chery pick](git/cherry-pick.md)
 - [git add meanings](git/git-add-meanings.md)
 - [git branching](./git/git-branching.md)
@@ -44,7 +49,12 @@ _Total : 39 tils_
 - [how to squash commits](git/squashing-commits.md)
 - [undo pushed commits](git/undo-pushed-commits.md)
 
+### powershell
+
+- [How to install powershell on MacOs](powershell/install-on-macos.mdx)
+
 ### IDE
+
 - [Visual Studio: solution crashing because of opened tabs](IDE/visual-studio/solution-crashing-because-opened-tabs.md)
 - [Visual Studio: Open in new tab instead of new window when debugging](IDE/visual-studio/debug-new-tab.md)
 - [Visual Studio: How to encode a file with UTF-8 with BOM with Visual Studio](IDE/visual-studio/encode-with-utf8-with-bom.md)
@@ -53,9 +63,11 @@ _Total : 39 tils_
 - [Visual Studio: create template file](IDE/visual-studio/create-template-file.md)
 
 ### rust
+
 - [tide](rust/libraries/tide.md)
 
 ### sql
+
 - [add month to date](sql/t-sql/add-month-to-date.md)
 - [alter column type](sql/t-sql/alter-column-type.md)
 - [\*.dacpac files](sql/t-sql/dacpac-files.md)
@@ -66,10 +78,12 @@ _Total : 39 tils_
 - [join without join](sql/join-without-join.md)
 
 ### tools
+
 - [how to generate a .pem file from a .pfx file with OpenSSL](tools/openssl/pfx-to-pem.md)
 - [how to paste http request from a browser to postman](tools/postman/how-to-paste-request-from-browser.md)
 - [how to extract all zip on a folder with powershell](./tools/powershell/extract-all-zip-on-folder.md)
 
 ### web
+
 - [Simple CSS](web/css/simple-css.md)
 - [How to get a favicon](web/tips/get-favicon.md)
